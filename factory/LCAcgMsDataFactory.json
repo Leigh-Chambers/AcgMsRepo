@@ -1,0 +1,9 @@
+{
+	"name": "LCAcgMsDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "df74c5e2-c9d1-4073-a192-b9045249ea8b",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
